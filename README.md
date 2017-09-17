@@ -1,2 +1,2 @@
-# angular-best-practices
+# Angular Best Practices
 Angular2+ best practices
